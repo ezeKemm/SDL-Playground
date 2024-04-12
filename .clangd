@@ -1,2 +1,2 @@
 CompileFlags:
-  Add: ["-I$env:{VCPKG_ROOT}\\installed\\x64-windows-static\\include"]
+  Add: ["-IC:\\Users\\Zeke\\projects\\sdl-test\\vcpkg\\installed\\x64-windows-static\\include"]
